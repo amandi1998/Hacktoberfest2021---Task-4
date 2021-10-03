@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Task4{
   public static void main(String[] args) {
     if (20 > 18) {
